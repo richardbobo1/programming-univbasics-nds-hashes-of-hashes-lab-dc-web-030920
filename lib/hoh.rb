@@ -42,9 +42,9 @@ def naming_system
        :sub_category => {
          :label => "Order"}}
            :sub_category => {
-       :label => "Class", 
+       :label => "Family", 
        :sub_category => {
-         :label => "Order"}}
+         :label => "Genius"}}
    },
     
      label: "Order" ,
